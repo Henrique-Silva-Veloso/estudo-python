@@ -1,2 +1,2 @@
 # estudo-python
-Repositório com estudo do python
+Repositório que contem estudos da linguagem de programacao python
